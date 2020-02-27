@@ -7,20 +7,16 @@
 ## Subject 2 - 資料清理數據前處理
 
 
-
-
 ## Subject 3 - 資料科學特徵工程技術
 <br>
 <br>
-
-
-
-
 
 ## Subject 4 - 機器學習基礎模型建立
 
 
 ## Subject 5 - 機器學習調整參數
+
+## Kaggle 期中考
 
 ## Subject 6 - 非監督式機器學習
 
