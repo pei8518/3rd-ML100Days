@@ -1,9 +1,7 @@
 # 3rd-ML100Days
 
 ## Subject 1 - 機器學習概論
-
-
-
+* 
 ## Subject 2 - 資料清理數據前處理
 
 
@@ -12,7 +10,9 @@
 <br>
 
 ## Subject 4 - 機器學習基礎模型建立
-
+* Day35: Regression vs. Classification
+* Day36: 評估指標選定/evaluation metrics
+* Day37:
 
 ## Subject 5 - 機器學習調整參數
 
