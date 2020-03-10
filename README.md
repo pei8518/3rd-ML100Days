@@ -39,9 +39,10 @@
 * Day33: [機器如何學習?](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day033/Day_033_HW.ipynb)
 * Day34: [訓練/測試集切分的概念](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day034/Day_034_HW.ipynb)
 * Day35: [Regression vs. Classification](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day035/Day_035_HW.ipynb)
-* Day36: [評估指標選定/evaluation metrics]()
+* Day36: [評估指標選定/evaluation metrics](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day036/Day_036_HW.ipynb)
 * Day37: [Regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day037/Day_037_HW.ipynb)
-* Day38: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/tree/master/homework/Day038)
+* Day38: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day038/Day_038_HW.ipynb)
+* Day39: [Regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day039/Day_039_HW.ipynb)
 
 ## Subject 5 - 機器學習調整參數
 
