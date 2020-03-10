@@ -41,6 +41,7 @@
 * Day35: [Regression vs. Classification](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day035/Day_035_HW.ipynb)
 * Day36: [評估指標選定/evaluation metrics]()
 * Day37: [Regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day037/Day_037_HW.ipynb)
+* Day38: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/tree/master/homework/Day038)
 
 ## Subject 5 - 機器學習調整參數
 
