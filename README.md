@@ -43,6 +43,7 @@
 * Day37: [Regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day037/Day_037_HW.ipynb)
 * Day38: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day038/Day_038_HW.ipynb)
 * Day39: [Regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day039/Day_039_HW.ipynb)
+* Day40: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day040/Day_040_HW.ipynb)
 
 ## Subject 5 - 機器學習調整參數
 
