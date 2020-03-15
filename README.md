@@ -44,6 +44,12 @@
 * Day38: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day038/Day_038_HW.ipynb)
 * Day39: [Regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day039/Day_039_HW.ipynb)
 * Day40: [Regression model 程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day040/Day_040_HW.ipynb)
+* Day41: [Tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day041/Day_041_HW.ipynb)
+* Day42: [Tree based model - 決策樹程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day042/Day_042_HW.ipynb)
+* Day43: [Tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day043/Day_043_HW.ipynb)
+* Day44: [Tree based model - 隨機森林程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day044/Day_044_HW.ipynb)
+* Day46: [Tree based model - 梯度提升機程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day046/Day_046_HW.ipynb)
+* Day47" [超參數調整與優化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day047/Day_047_HW.ipynb)
 
 ## Subject 5 - 機器學習調整參數
 
