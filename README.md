@@ -53,7 +53,7 @@
 * Day48: [Kaggle 競賽平台介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day048/Day_048_HW.ipynb)
   - 完成 scikit-learn-practice 比賽
 * Day49: [集成方法 : 混合泛化(Blending)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day049/Day_049_Blending_HW.ipynb)
-  - 以Blending的方式完成Kaggle鐵達尼競賽
+  > 以Blending的方式完成Kaggle鐵達尼競賽
 * D
 ## Subject 5 - 機器學習調整參數
 
