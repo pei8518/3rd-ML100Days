@@ -49,8 +49,9 @@
 * Day43: [Tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day043/Day_043_HW.ipynb)
 * Day44: [Tree based model - 隨機森林程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day044/Day_044_HW.ipynb)
 * Day46: [Tree based model - 梯度提升機程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day046/Day_046_HW.ipynb)
-* Day47" [超參數調整與優化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day047/Day_047_HW.ipynb)
-
+* Day47: [超參數調整與優化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day047/Day_047_HW.ipynb)
+* Day48: []()
+* Day49: []()
 ## Subject 5 - 機器學習調整參數
 
 ## Kaggle 期中考
