@@ -49,20 +49,34 @@
 * Day43: [Tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day043/Day_043_HW.ipynb)
 * Day44: [Tree based model - 隨機森林程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day044/Day_044_HW.ipynb)
 * Day46: [Tree based model - 梯度提升機程式碼撰寫](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day046/Day_046_HW.ipynb)
+## Subject 5 - 機器學習調整參數
 * Day47: [超參數調整與優化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day047/Day_047_HW.ipynb)
 * Day48: [Kaggle 競賽平台介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day048/Day_048_HW.ipynb)
   - 完成 scikit-learn-practice 比賽(https://www.kaggle.com/c/data-science-london-scikit-learn)
 * Day49: [集成方法 : 混合泛化(Blending)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day049/Day_049_Blending_HW.ipynb)
   - 以Blending的方式完成Kaggle鐵達尼競賽
-* D
-## Subject 5 - 機器學習調整參數
-
+* Day50: [集成方法 : 堆疊泛化(Stacking)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day050/Day_050_Blending_HW.ipynb)
+  - 以Stacking的方式完成Kaggle鐵達尼競賽
 ## Kaggle 期中考
-
+* Day51-53: [Mid-term Exam-Kaggle比賽](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day051_053/Day_051_053_midterm_exam.ipynb)
+  - 目標:Machine Learning與調整參數
 ## Subject 6 - 非監督式機器學習
-
+* Day54: [Clustering-1 非監督式機器學習簡介]()
+  - 非監督式學習簡介、應用場景
+* Day55: [Clustering-2 聚類算法]()
+  - K-means分群
+* Day56: [K-mean - 觀察 : 使用輪廓分析]()
+* Day57: [Clustering-3 階層分群算法]()
+* Day58: [階層分群法 - 觀察 : 使用 2D 樣版資料集]()
+* Day59: [Dimension reduction-1 降維方法-主成分分析(principal components analysis, PCA)]()
+* Day60: [PCA - 觀察 : 使用手寫辨識資料集]()
+* Day61: [Dimension reduction-2 降維方法-t-SNE(t-distributed stochastic neighbor embedding, t-隨機鄰近嵌入法)]()
+* Day62: [t-SNE - 觀察 : 分群與流形還原]()
 ## Subject 7 - 深度學習理論與實作
-
+* Day63: [神經網路介紹]()
+* Day64: [深度學習體驗 : 模型調整與學習曲線]()
+  - 介紹體驗平台TensorFlow PlayGround，並初步了解模型的調整
+* Day65: [深度學習體驗 : 啟動函數與正規化]()
 ## Subject 8 - 初探深度學習使用Keras
 
 ## Subject 9 - 深度學習應用卷積神經網路
