@@ -22,7 +22,7 @@
 * Day18: [程式實作把連續型變數離散化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day018/Day_018_HW.ipynb)
 * Day19: [Subplots](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day019/Day_019_HW.ipynb)
 * Day20: [Heatmap & Grid-plot](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day020/Day_020_HW.ipynb)
-* Day21: [模型初體驗 Logistic Regression](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day020/Day_020_HW.ipynb)
+* Day21: [模型初體驗 Logistic Regression](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day021/Day_021_HW.ipynb)
 ## Subject 3 - 資料科學特徵工程技術
 * Day22: [特徵工程簡介](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day022/Day_022_HW.ipynb)
 * Day23: [數值型特徵 - 去除偏態](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day023/Day_023_HW.ipynb)
