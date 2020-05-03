@@ -61,24 +61,38 @@
 * Day51-53: [Mid-term Exam-Kaggle比賽](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day051_053/Day_051_053_midterm_exam.ipynb)
   - 目標:Machine Learning與調整參數
 ## Subject 6 - 非監督式機器學習
-* Day54: [Clustering-1 非監督式機器學習簡介]()
+* Day54: [Clustering-1 非監督式機器學習簡介](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day054/Day_054_midterm_exam.ipynb)
   - 非監督式學習簡介、應用場景
-* Day55: [Clustering-2 聚類算法]()
+* Day55: [Clustering-2 聚類算法](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day055/Day_055_midterm_exam.ipynb)
   - K-means分群
-* Day56: [K-mean - 觀察 : 使用輪廓分析]()
-* Day57: [Clustering-3 階層分群算法]()
-* Day58: [階層分群法 - 觀察 : 使用 2D 樣版資料集]()
-* Day59: [Dimension reduction-1 降維方法-主成分分析(principal components analysis, PCA)]()
-* Day60: [PCA - 觀察 : 使用手寫辨識資料集]()
-* Day61: [Dimension reduction-2 降維方法-t-SNE(t-distributed stochastic neighbor embedding, t-隨機鄰近嵌入法)]()
-* Day62: [t-SNE - 觀察 : 分群與流形還原]()
+* Day56: [K-mean - 觀察 : 使用輪廓分析](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day056/Day_056_midterm_exam.ipynb)
+* Day57: [Clustering-3 階層分群算法](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day057/Day_057_midterm_exam.ipynb)
+* Day58: [階層分群法 - 觀察 : 使用 2D 樣版資料集](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day058/Day_058_midterm_exam.ipynb)
+* Day59: [Dimension reduction-1 降維方法-主成分分析(principal components analysis, PCA)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day059/Day_059_midterm_exam.ipynb)
+* Day60: [PCA - 觀察 : 使用手寫辨識資料集](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day060/Day_060_midterm_exam.ipynb)
+* Day61: [Dimension reduction-2 降維方法-t-SNE(t-distributed stochastic neighbor embedding, t-隨機鄰近嵌入法)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day061/Day_061_midterm_exam.ipynb)
+* Day62: [t-SNE - 觀察 : 分群與流形還原](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day062/Day_062_midterm_exam.ipynb)
 ## Subject 7 - 深度學習理論與實作
-* Day63: [神經網路介紹]()
-* Day64: [深度學習體驗 : 模型調整與學習曲線]()
+* Day63: [神經網路介紹](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day063/Day_063_midterm_exam.ipynb)
+* Day64: [深度學習體驗 : 模型調整與學習曲線](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day064/Day_064_midterm_exam.ipynb)
   - 介紹體驗平台TensorFlow PlayGround，並初步了解模型的調整
-* Day65: [深度學習體驗 : 啟動函數與正規化]()
+* Day65: [深度學習體驗 : 啟動函數與正規化](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day065/Day_065_midterm_exam.ipynb)
 ## Subject 8 - 初探深度學習使用Keras
-
+* Day66: [Keras 安裝與介紹]()
+* Day67: [Keras Dataset：Keras embedded dataset的介紹與應用]()
+* Day68: [Keras Sequential API：序列模型搭建網路]()
+* Day69: [Keras Sequential API：Keras Module API的介紹與應用]()
+* Day70: [Multi-layer Perception多層感知]()
+* Day71: [損失函數的介紹與應用]()
+* Day72: [啟動函數的介紹與應用]()
+* Day73: [梯度下降Gradient Descent]()
+* Day74: [Gradient Descent 數學原理]()
+* Day75: [BackPropagation：反向式傳播簡介]()
+* Day76: [優化器optimizers：優化器optimizers簡介]()
+* Day77: [訓練神經網路的細節與技巧 - Validation and overfit]()
+* Day78: [訓練神經網路前的注意事項]()
+* Day79: [訓練神經網路的細節與技巧 - Learning rate effect]()
+* Day80: []()
 ## Subject 9 - 深度學習應用卷積神經網路
 
 ## Kaggle 期末考
