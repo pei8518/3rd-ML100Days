@@ -89,16 +89,30 @@
 * Day74: [Gradient Descent 數學原理]https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day074/Day74-Gradient_Descent_HW.ipynb)
 * Day75: [BackPropagation：反向式傳播簡介](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day075/Day75-Back_Propagation_HW.ipynb)
 * Day76: [優化器optimizers：優化器optimizers簡介](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day076/D76-optimizer_HW.ipynb)
-* Day77: [訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day077/Day_077_HW.ipynb)
-* Day78: [訓練神經網路前的注意事項](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day078/Day_078_HW.ipynb)
-* Day79: [訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day079/Day_079_HW.ipynb)
-* Day80: [](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day080/Day_080_HW.ipynb)
+* Day77: [訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day077/Day077_HW.ipynb)
+* Day78: [訓練神經網路前的注意事項](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day078/Day078_HW.ipynb)
+* Day79: [訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day079/Day079_HW.ipynb)
+* Day80: [[練習 Day] 優化器與學習率的組合與比較](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day080/Day080_HW.ipynb)
+* Day81: [訓練神經網路的細節與技巧 - Regularization](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day081/Day081_HW.ipynb)
+* Day82: [訓練神經網路的細節與技巧 - Dropout](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day082/Day082_HW.ipynb)
+* Day83: [訓練神經網路的細節與技巧 - Batch normalization](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day083/Day083_HW.ipynb)
+* Day84: [[練習 Day] 正規化/機移除/批次標準化的 組合與比較](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day084/Day084_HW.ipynb)
+* Day85: [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day085/Day085_HW.ipynb)
+* Day86: [訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day086/Day086_HW.ipynb)
+* Day87: [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day087/Day087HW.ipynb)
+* Day88: [訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day088/Day088_HW.ipynb)
+* Day89: [訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day089/Day089_HW.ipynb)
+* Day90: [使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day090/Day090_color_histogram_HW.ipynb)
+* Day91: [[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day091/Day091_classification_with_cv_HW.ipynb)
 ## Subject 9 - 深度學習應用卷積神經網路
-
+* Day92: [卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day092/Day092_CNN_theory.ipynb)
+* Day93: [卷積神經網路架構細節](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day093/Day93-CNN_Brief_HW.ipynb)
+* Day94: [卷積神經網路 - 卷積(Convolution)層與參數調整](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day094/Day94-CNN_Convolution_HW.ipynb)
+* Day95: [卷積神經網路 - 池化(Pooling)層與參數調整](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day095/Day95-CNN_Pooling_Padding_HW.ipynb)
+* Day96: [Keras 中的 CNN layers](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day096/Day096_Keras_CNN_layers.ipynb)
+* Day97: [使用 CNN 完成 CIFAR-10 資料集](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day097/Day097_Keras_CNN_vs_DNN.ipynb)
+* Day98: [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day098/Day098_Python_generator.ipynb)
+* Day99: [訓練卷積神經網路的細節與技巧 - 處理小量數據](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day099/Day099_data_augmentation.ipynb)
+* Day100: [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day100/Day100_transfer_learning_HW.ipynb)
 ## Kaggle 期末考
-
-
-
-
-
-
+* Day101-103: [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://github.com/pei8518/3rd-ML100Days/blob/master/homework/Day101_103/Day101_103.ipynb)
